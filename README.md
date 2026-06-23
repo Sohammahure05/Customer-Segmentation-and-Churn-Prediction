@@ -1,9 +1,9 @@
 # Customer Segmentation and Churn Prediction
-
+## Machine Learning project that performs customer segmentation using K-Means Clustering and predicts customer churn using Random Forest with 93% accuracy.
 ## Overview
 
 This project combines Customer Segmentation and Customer Churn Prediction using Machine Learning.
-
+ 
 ### Customer Segmentation
 
 * Algorithm: K-Means Clustering
